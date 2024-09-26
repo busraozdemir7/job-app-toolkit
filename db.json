@@ -1,0 +1,94 @@
+{
+  "jobs": [
+    {
+      "id": "322a69fa-d536-407d-83cd-8e3bd30f76a3",
+      "position": "Frontend Developer",
+      "company": "Microsoft",
+      "location": "Menlo Park",
+      "status": "Mülakat",
+      "type": "Yarı Zamanlı",
+      "date": 1714680517533
+    },
+    {
+      "position": "Marketing Manager",
+      "company": "Amazon",
+      "location": "İzmir/Bayraklı",
+      "status": "Mülakat",
+      "type": "Tam Zamanlı",
+      "id": "3ca15fb5-cff8-464d-bb6e-bc244d22edfa",
+      "date": 1715104409300
+    },
+    {
+      "id": "2ab1c988-55cd-4359-986b-e4aa10a11092",
+      "position": "Frontend Developer",
+      "company": "Udemig",
+      "location": "İzmir/Bayraklı",
+      "status": "Devam Ediyor",
+      "type": "Tam Zamanlı",
+      "date": 1721679666537
+    },
+    {
+      "id": "088d61af-3da9-414d-99c9-377f51caf4cd",
+      "position": "Marketing Manager",
+      "company": "Amazon",
+      "location": "Seattle",
+      "status": "Reddedildi",
+      "type": "Staj",
+      "date": 1721679826688
+    },
+    {
+      "id": "621e4b1f-db6e-4c71-9061-a7735d04d150",
+      "position": "Data Scientist",
+      "company": "Microsoft",
+      "location": "Seattle",
+      "status": "Mülakat",
+      "type": "Yarı Zamanlı",
+      "date": 1721680238039
+    },
+    {
+      "id": "fabb0578-fbdc-4865-948a-868cab216752",
+      "position": "Data Scientist",
+      "company": "Amazon",
+      "location": "Menlo Park",
+      "status": "Mülakat",
+      "type": "Uzaktan",
+      "date": 1721680401790
+    },
+    {
+      "id": "e6151d6c-d439-42e6-b0bb-9e058e6017fd",
+      "position": "Data Scientist",
+      "company": "Microsoft",
+      "location": "Seattle",
+      "status": "Mülakat",
+      "type": "Uzaktan",
+      "date": 1721680599478
+    },
+    {
+      "id": "b7263ab0-a349-42c2-914c-12f0b7d24230",
+      "position": "Data Scientist",
+      "company": "Amazon",
+      "location": "Menlo Park",
+      "status": "Mülakat",
+      "type": "Yarı Zamanlı",
+      "date": 1721680857805
+    },
+    {
+      "id": "7a517c93-0e33-47f1-97be-7808805f2d5c",
+      "position": "Marketing Manager",
+      "company": "Microsoft",
+      "location": "Menlo Park",
+      "status": "Reddedildi",
+      "type": "Uzaktan",
+      "date": 1721680893238
+    },
+    {
+      "id": "56be4723-9eb3-4657-a341-b1078cd6fa40",
+      "position": "Frontend Developer",
+      "company": "Udemig",
+      "location": "İzmir/Bayraklı",
+      "status": "Devam Ediyor",
+      "type": "Tam Zamanlı",
+      "date": 1721680934349
+    }
+  ]
+}
